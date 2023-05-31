@@ -26,6 +26,6 @@ thresholding.
 - Write a python code to improve the dynamic range of an input 
 image using Log transformation or power law transformation.
 
-> <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Grinning%20face%20with%20smiling%20eyes/3D/grinning_face_with_smiling_eyes_3d.png" alt="Smiling Face Emoji" style="height: auto; width:1.0rem;"/> Feel free to generate a pull request to this repository to contribute more programs regarding Image processing even done using other tools and languages like Matlab, etc.
+> <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Grinning%20face%20with%20smiling%20eyes/3D/grinning_face_with_smiling_eyes_3d.png" alt="Smiling Face Emoji" style="height: 1.0rem; width:1.0rem;"/> Feel free to generate a pull request to this repository to contribute more programs regarding Image processing even done using other tools and languages like Matlab, etc.
 
 &copy; All images used here are taken from Unsplash.com and comes under [Unsplash licence](https://unsplash.com/license) 

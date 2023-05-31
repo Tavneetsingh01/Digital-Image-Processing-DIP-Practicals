@@ -1,4 +1,4 @@
-# Digital Image Processing (DIP) Practicals using Python
+# Digital Image Processing (DIP) Practicals using Python :snake:
 ***
 This repository contains the following listed DIP practicals that are done using various python libraries.
 

@@ -26,6 +26,8 @@ thresholding.
 - Write a python code to improve the dynamic range of an input 
 image using Log transformation or power law transformation.
 
-> :smile: Feel free to generate a pull request to this repository to contribute more programs regarding Image processing even done using other tools and languages like Matlab, etc.
+>  :handshake: Feel free to generate a pull request to this repository to contribute more programs regarding Image processing even done using other tools and languages like Matlab, etc.
+
+![jerry and duck handshake](https://tenor.com/en-GB/view/tom-and-jerry-jerry-the-mouse-jerry-shake-hands-handshake-gif-17827738.gif)
 
 &copy; All images used here are taken from Unsplash.com and comes under [Unsplash licence](https://unsplash.com/license) 
